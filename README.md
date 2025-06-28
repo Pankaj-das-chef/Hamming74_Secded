@@ -57,4 +57,5 @@ Automated testbench that simulates different error scenarios and validates the e
 ---
 
 
+![hamming74_secded](https://github.com/user-attachments/assets/07bd25f8-912c-4370-8c28-369d91f3856f)
 
